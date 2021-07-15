@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Welcome to Not Pure Poole
-date: 2020-09-29 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+date: 2021-07-15 20:01 +0800
+last_modified_at: 2021-07-15 20:01 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to **Not Pure Poole**! This is an example post to show the layout.
+한글도 되나용
 {: .message }
 
 First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
