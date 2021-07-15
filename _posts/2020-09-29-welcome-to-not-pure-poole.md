@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Not Pure Poole
 date: 2021-07-15 20:01 +0800
 last_modified_at: 2021-07-15 20:01 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [test]
 toc:  true
 ---
 한글도 되나용
