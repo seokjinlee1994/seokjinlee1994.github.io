@@ -10,12 +10,14 @@ toc:  true
 
 기존 자바에서의 변수 선언 방식
 ```{.java}
-    int age = 28;
+int age = 28;
 ```
 
 코틀린에서의 변수 선언 방식
-    // ;생략 가능
-    val ageVal = 28
-    var ageVar = 28
+
+{% highlight%}
+val ageVal = 28
+var ageVar = 28
+{% endhighlight %}
 
 -----
