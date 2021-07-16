@@ -2,7 +2,7 @@
 title: 쁘진 개발장
 description: 개발 블로그입니다.
 url: https://seokjinLee1994.github.io
-avatar: /avatar.jpeg
+avatar: ../image_blog/profile_blog.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
