@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 코틀린 기초 문법 var / val
+title: [kotlin] 코틀린 기초 문법 var / val
 date: 2021-07-16 13:47 +0800
 last_modified_at: 2021-07-16 13:47 +0800
 tags: [kotlin, basic_grammar]
