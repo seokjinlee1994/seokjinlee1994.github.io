@@ -15,6 +15,7 @@ layout: null
         <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
         {% endif %}
 
+        <loc>{{ site.url }}{{ post.url }}</loc>
         {% if post.sitemap.changefreq == null %}
         <changefreq>weekly</changefreq>
         {% else %}
