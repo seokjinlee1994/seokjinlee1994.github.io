@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#91;Kotlin-basic&#93; 코틀린 기초 문법 함수
+title: [Kotlin-basic] 코틀린 기초 문법 함수
 date: 2021-07-18 +0800
 last_modified_at: 2021-07-18 +0800
 tags: [kotlin basic]
