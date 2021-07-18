@@ -6,7 +6,7 @@ last_modified_at: 2021-07-16 +0800
 tags: [kotlin basic]
 toc:  true
 ---
-# Kotlin의 변수 선언 방식인 var과 val에 대한 정리!
+# kotlin의 기본 문법 정리(001) var과 val에 대하여
 
 <br>
 
