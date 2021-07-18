@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Kotlin-basic 코틀린 기초 문법 var / val
+title: 코틀린 기초 문법 var / val
 date: 2021-07-16 +0800
 last_modified_at: 2021-07-16 +0800
 tags: [kotlin basic]
 toc:  true
 ---
-# kotlin의 기본 문법 정리(001) var과 val
+# Kotlin의 변수 선언 방식인 var과 val에 대한 정리!
 
 <br>
 
@@ -28,10 +28,13 @@ var nameVar:Int = "이석진"
 
 <br>
 
+
 키워드 | 의미 
 ---|:--- 
 `val` | - 변경 불가능한 참조를 저장하는 변수로서, 특정한 값을 의미하는 'Value'를 나타 냅니다.<br> - val로 선언하면 초기화 이후 '변수의 재 대입'이 불가능합니다.<br> - Java에서 'final' 키워드로 선언하는 것과 같다.
 `var` | - 변경 가능한 참조, 변경 가능하다는 의미의 'Variable'을 나타낸다.<br> - Java의 일반적인 변수에 해당한다.
+
+---
 
 <br>
 
