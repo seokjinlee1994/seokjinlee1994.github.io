@@ -6,7 +6,7 @@ last_modified_at: 2021-07-16 +0800
 tags: [kotlin basic]
 toc:  true
 ---
-# kotlin의 기본 문법 정리(001) var과 val에 대하여
+# kotlin의 기본 문법 정리(001) var과 val
 
 <br>
 
