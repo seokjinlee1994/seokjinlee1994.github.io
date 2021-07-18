@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Kotlin-basic]'코틀린 기초 문법 var / val
+title: &#91;Kotlin-basic&#93; 코틀린 기초 문법 var / val
 date: 2021-07-16 +0800
 last_modified_at: 2021-07-16 +0800
 tags: [kotlin basic]
