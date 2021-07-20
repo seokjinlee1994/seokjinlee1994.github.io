@@ -37,7 +37,7 @@ var nameVar:String = "이석진"
 
 코틀린이 val, var 2가지 키워드를 사용하는 것은 <span style="color:orange"><u>변수의 불변성을 보장하기 위한 것</u></span>이고
 
-타입을 따로 적지 않은 것은 <span style="color:orange"><u>타입 추론</span></u>을 하기 때문이다.
+타입을 따로 적지 않은 것은 <span style="color:orange"><u>타입 추론</u></span>을 하기 때문이다.
 <br><br>
 
 > _변수의 불변성?_
