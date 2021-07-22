@@ -7,7 +7,7 @@ tags: [kotlin basic]
 toc:  true
 ---
 
-# kotlin의 기본 문법 정리(005) 예외 처리
+# kotlin의 기본 문법 정리(006) 예외 처리
 
 ## <span style="color:orange">1. try, catch, finally</span>  
 ---  
