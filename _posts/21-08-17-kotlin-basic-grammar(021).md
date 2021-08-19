@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "[Kotlin] 코틀린 기초 모든 클래스가 정의해야 하는 메소드"
-date: 2021-08-16 +0800
-last_modified_at: 2021-08-16 +0800
+date: 2021-08-17 +0800
+last_modified_at: 2021-08-17 +0800
 tags: [kotlin basic]
 toc:  true
 ---
 
-# kotlin의 기본 문법 정리(020) 
+# kotlin의 기본 문법 정리(021) 
 
 ## <span style="color:orange">1. 모든 클래스가 정의해야 하는 메소드</span>  
 ---  
