@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Kotlin] 코틀린 객체 선언"
+title: "[Kotlin] 동반 객체 : 팩토리 메소드와 정적 멤버가 들어갈 장소"
 date: 2022-02-14 +0800
 last_modified_at: 2022-02-14 +0800
 tags: [kotlin basic]
