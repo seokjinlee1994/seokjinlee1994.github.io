@@ -2,7 +2,7 @@
 layout: post
 title: "[Kotlin] 코틀린 객체 선언"
 date: 2021-08-23 +0800
-last_modified_at: 2021-08-23 +0800
+last_modified_at: 2022-02-14 +0800
 tags: [kotlin basic]
 toc:  true
 ---
@@ -74,6 +74,23 @@ data class Person(val name: String) {
 val persons = listOf(Person("Bob"), Person("Alice"))
 println(persons.sortedWith(Person.NameComparator))
 // 결과 = [Person(name=Alice), Person(name=Bob)]
+```
+<br><br>
+
+## <span style="color:orange">2. 중첩 객체를 사용하여 Comparator 구현하기</span>  
+---
+
+```kotlin
+data class Person(val name : String) {
+    object NameComparator : Comparator<Person> {
+        override fun compare(p1 : Person, p2 : Person) : Int = 
+            p1.name.compareTo(p2.name)
+    }
+}
+val persons = listOf(Person("Bob"), Person("Alice"))
+println(persons.sortWith(Person.NameComparator))
+
+>> [Person(name=Alice), Person(name-Bob)]
 ```
 
 ---
